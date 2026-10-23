@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SakuKu</string>
+
+    <!-- Nama kategori (emoji ada di domain/model/Category.kt) -->
+    <string name="category_jajan">Jajan</string>
+    <string name="category_transport">Transport</string>
+    <string name="category_kuota">Kuota</string>
+    <string name="category_buku">Buku</string>
+    <string name="category_hiburan">Hiburan</string>
+    <string name="category_tabungan">Tabungan</string>
+    <string name="category_lainnya">Lainnya</string>
+    <string name="category_pemasukan">Pemasukan</string>
+
+    <!-- Label tanggal -->
+    <string name="date_today">Hari Ini</string>
+    <string name="date_yesterday">Kemarin</string>
+</resources>
